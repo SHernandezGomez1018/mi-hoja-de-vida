@@ -2,6 +2,8 @@
 
 ###  Santiago Hernandez Gomez
 
+![image](https://github.com/user-attachments/assets/0c2002ef-81c5-4657-94bc-cb3044b48d30)
+
 ###### Presentacion
 #### Estudiante
 - Soy una persona que se caracteriza por su honestidad, responsabilidad
