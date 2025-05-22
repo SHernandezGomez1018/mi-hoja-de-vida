@@ -1,6 +1,6 @@
-#HOJA DE VIDA
+# HOJA DE VIDA
 
-###Santiago Hernandez Gomez
+###  Santiago Hernandez Gomez
 
 ######Presentacion
 ####Estudiante
@@ -13,7 +13,7 @@ capacidad para trabajar en equipo y tengo un fuerte deseo de
 crecimiento personal y profesional. Soy honesto, proactivo y tengo una
 gran motivación por aprender en el ámbito tecnológico.
 
-####CONTACTO
+#### CONTACTO
 - satoten2010@gmail.com
 - 3124387770
 
